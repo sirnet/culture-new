@@ -81,7 +81,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(/img/Mask\ Group.jpg);
+    background-image: url(../img/Mask\ Group.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
